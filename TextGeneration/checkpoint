@@ -1,0 +1,4 @@
+model_checkpoint_path: "C:/Users/santhob/.spyder-py3/TextGeneration\\ckpt_3"
+all_model_checkpoint_paths: "C:/Users/santhob/.spyder-py3/TextGeneration\\ckpt_1"
+all_model_checkpoint_paths: "C:/Users/santhob/.spyder-py3/TextGeneration\\ckpt_2"
+all_model_checkpoint_paths: "C:/Users/santhob/.spyder-py3/TextGeneration\\ckpt_3"
